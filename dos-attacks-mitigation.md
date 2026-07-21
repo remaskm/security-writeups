@@ -1,6 +1,6 @@
 # Denial-of-Service Attacks & Mitigations — Lab Report
 
-📄 [Full report with screenshots (PDF)](./reports/dos-attacks-report.pdf)
+[Full report with screenshots (PDF)](./reports/dos-attacks-report.pdf)
 
 **Environment:** Kali Linux (attacker) → Metasploitable 2 (victim), isolated host-only/NAT lab
 **Tools:** hping3, Wireshark, iptables, sysctl, netstat, tcpdump, dig
